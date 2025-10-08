@@ -1,2 +1,0 @@
-# dbdemo
-Databricks demo learning
